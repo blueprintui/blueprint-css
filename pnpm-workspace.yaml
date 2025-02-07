@@ -27,7 +27,7 @@ catalog:
   lit: ^3.2.1
   tslib: ^2.8.1
   typescript: 5.6.3
-  vite: 5.4.11
+  vite: 5.4.12
   modern-normalize: ^3.0.1
   playwright: 1.49.1
   publint: 0.2.12
