@@ -255,7 +255,7 @@
     "@typescript-eslint/parser": "8.4.0",
     "@typescript/lib-dom": "npm:@types/web@^0.0.149",
     "cpy-cli": "5.0.0",
-    "esbuild": "0.23.1",
+    "esbuild": "0.25.0",
     "eslint": "9.9.1",
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-jasmine": "4.2.2",
